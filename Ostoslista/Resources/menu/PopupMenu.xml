@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/deleteItem"
+        android:title="@string/deleteItem" />
+  <item android:id="@+id/modifyItem"
+        android:title="@string/modifyItem" />
+  <item android:id="@+id/takePhoto"
+        android:title="@string/takePhoto" />
+  <item android:id="@+id/getImage"
+        android:title="@string/galleryImage" />
+  <item android:id="@+id/cancel"
+        android:title="@string/cancelText" />
+</menu>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/overflowMenuShare"
+      android:showAsAction="never"
+      android:title="@string/shareList"
+      android:actionProviderClass="android.support.v7.widget.ShareActionProvider" />
+  <item android:id="@+id/overflowMenuClear"
+      android:showAsAction="never"
+      android:title="@string/clearList" />
+  <item android:id="@+id/overflowMenuClearChecked"
+      android:showAsAction="never"
+      android:title="@string/clearChecked"/>
+  <item android:id="@+id/overFlowMenuDarkTheme"
+      android:showAsAction="never"
+      android:title="@string/darkTheme"
+      android:checkable="true"/>
+  <item android:id="@+id/overflowMenuPrivacyPolicy"
+      android:showAsAction="never"
+      android:title="@string/showPrivacyPolicy"/>
+</menu>

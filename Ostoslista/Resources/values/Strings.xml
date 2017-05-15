@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="applicationName">Shopping List</string>
+  <string name="shareList">Share shopping list</string>
+  <string name="addItem">Add item</string>
+  <string name="holdForOptions">Hold for more options</string>
+  <string name="continueTitleText">Continue list</string>
+  <string name="continueMessageText">Do you want to continue the latest list?</string>
+  <string name="titleText">Clear list</string>
+  <string name="messageText">Are you sure you want to clear the list?</string>
+  <string name="titleTextClearChecked">Clear checked items</string>
+  <string name="messageTextClearChecked">Are you sure you want to clear the checked items from the list?</string>
+  <string name="cancelText">Cancel</string>
+  <string name="ok">OK</string>
+  <string name="clearList">Clear list</string>
+  <string name="clearChecked">Clear checked items</string>
+  <string name="darkTheme">Dark theme</string>
+  <string name="deleteItem">Delete item</string>
+  <string name="takePhoto">Take photo</string>
+  <string name="galleryImage">Get image from gallery</string>
+  <string name="onDeletion">\u0020deleted</string>
+  <string name="permission_camera_rationale">Camera and storage permissions are needed for this action.</string>
+  <string name="permission_read_rationale">Storage permission is needed for this action.</string>
+  <string name="permission_available_camera">Camera and storage Permissions have been granted. You can now add photos to items.</string>
+  <string name="permissions_not_granted">Permissions were not granted.</string>
+  <string name="showPrivacyPolicy">Privacy Policy</string>
+  <string name="modifyItem">Modify item</string>
+</resources>

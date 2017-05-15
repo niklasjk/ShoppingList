@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="applicationName">Ostoslista</string>
+  <string name="shareList">Jaa ostoslista</string>
+  <string name="addItem">Lisää ostos</string>
+  <string name="holdForOptions">Pidä pohjassa avataksesi valikon</string>
+  <string name="continueTitleText">Jatka listaa</string>
+  <string name="continueMessageText">Haluatko jatkaa viimeisintä listaa?</string>
+  <string name="titleText">Tyhjennä lista</string>
+  <string name="messageText">Haluatko varmasti tyhjentää listan?</string>
+  <string name="titleTextClearChecked">Poista valitut listalta</string>
+  <string name="messageTextClearChecked">Haluatko varmasti poistaa valitut listalta?</string>
+  <string name="cancelText">Peruuta</string>
+  <string name="ok">OK</string>
+  <string name="clearList">Tyhjennä lista</string>
+  <string name="clearChecked">Poista valitut listalta</string>
+  <string name="darkTheme">Tumma teema</string>
+  <string name="deleteItem">Poista ostos</string>
+  <string name="takePhoto">Ota valokuva</string>
+  <string name="galleryImage">Hae kuva kuvagalleriasta</string>
+  <string name="onDeletion">\u0020poistettu</string>
+  <string name="permission_camera_rationale">Tarvitaan lupa kameran käyttöä varten.</string>
+  <string name="permission_read_rationale">Tarvitaan lupa puhelimen muistin käyttöä varten.</string>
+  <string name="permission_available_camera">Lupa on annettu kameran ja muistin käyttöä varten. Voit nyt lisätä kuvia ostoksista.</string>
+  <string name="permissions_not_granted">Lupaa ei annettu.</string>
+  <string name="showPrivacyPolicy">Yksityisyyskäytäntö</string>
+  <string name="modifyItem">Muokkaa ostosta</string>
+</resources>
